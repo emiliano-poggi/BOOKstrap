@@ -23,9 +23,9 @@ Bootstrap-based means: easy-to-style, responsiveness and mobile-ready, pre-style
 
 <h2 id="start">Getting started</h2>
 
-# Fork the BOOKstrap project.
-# Then, go to the project settings in your GitHub account and rename it.
-# In the settings, make sure to enable GitHub Pages with master branch as source for your web site.
-# Now you are ready to go, just wok on it as if it were a normal jekyll project.
+1. Fork the BOOKstrap project.
+2. Then, go to the project settings in your GitHub account and rename it.
+3. In the settings, make sure to enable GitHub Pages with master branch as source for your web site.
+4. Now you are ready to go, just wok on it as if it were a normal jekyll project.
 
 You should be able to browse your website at https://yourusername.github.io/renamedproject.
