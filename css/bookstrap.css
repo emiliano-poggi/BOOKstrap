@@ -15,7 +15,7 @@ p {
 }
 
 a, a:hover, a:focus {
-    color: inherit;
+    color: #5bc0de;
     text-decoration: none;
     transition: all 0.3s;
 }
