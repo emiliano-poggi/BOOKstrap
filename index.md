@@ -15,9 +15,9 @@ Think of BOOKstrap as a Jekyll/Bootstrap based starter kit for building and writ
 
 Use BOOKstrap if you want to publish a book on the web site with minimum effort and complexity.
 
-Jekyll-based means: write your content in plain text choosing lightweight markup languages such as Markdown or Textile, build your content and structure by means of Liquid templating engine, host free your web site throughout GitHub Pages.
+_Jekyll-based_ means: write your content in plain text choosing lightweight markup languages such as Markdown or Textile, build your content and structure by means of Liquid templating engine, host free your web site throughout GitHub Pages.
 
-Bootstrap-based means: easy-to-style, responsiveness and mobile-ready, pre-styled components, customization.
+_Bootstrap-based_ means: easy-to-style, responsiveness and mobile-ready, pre-styled components, customization.
 
 <div class="line"></div>
 
