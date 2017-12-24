@@ -3,7 +3,7 @@ layout: default
 title: Acknowledgements
 ---
 
-## Aacknowledgements
+## Acknowledgements
 
 BOOKstrap is a minimum-effort web site starter kit based on various resources freely available from the web:
 
