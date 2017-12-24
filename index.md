@@ -11,7 +11,7 @@ Think of BOOKstrap as a Jekyll/Bootstrap based starter kit for building and writ
 
 <div class="line"></div>
 
-<h2 id="Intro">Why BOOKstrap</h2>
+<h2 id="Why">Why BOOKstrap</h2>
 
 Use BOOKstrap if you want to publish a book on the web site with minimum effort and complexity.
 
@@ -21,7 +21,7 @@ _Bootstrap-based_ means: easy-to-style, responsiveness and mobile-ready, pre-sty
 
 <div class="line"></div>
 
-<h2 id="start">Getting started</h2>
+<h2 id="Start">Getting started</h2>
 
 1. Fork the BOOKstrap project.
 2. Then, go to the project settings in your GitHub account and rename it.
